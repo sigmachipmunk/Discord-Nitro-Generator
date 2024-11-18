@@ -20,7 +20,7 @@ Once you start generating it will only take around 2-5 minutes before working. A
 
 
 # Common fixes
-- The first and easiest common fix is to download Python.([download here](https://www.python.org/)
+- The first and easiest common fix is to download Python.([download here])(https://www.python.org/)
 - The second fix you can do is by running the command "pip install pillow" in your terminal(this only applies if its not working AND you have python installed)
  # How you can support
  - If you want to support this repository, then you can star it, send it to a friend, or just reccomend it to others. This would help me significantly since it would help me gain popularity for the hard work I push out for free.
