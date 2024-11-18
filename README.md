@@ -1,6 +1,7 @@
 # Nitro-Gen
 
-# Overview
+[Join the discord for more tools!](https://discord.gg/RsuR3DWzj5)
+
 
 # How it works.
 
